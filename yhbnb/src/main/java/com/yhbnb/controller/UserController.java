@@ -18,7 +18,7 @@ public class UserController {
     
     @RequestMapping(value ="/addUser")
     public String addPerson(HttpServletRequest request){
-
+            String a = "a";
       /*  //存起来
         ModelAndView modelAndView=new ModelAndView();
         modelAndView.setViewName("addPerson");
