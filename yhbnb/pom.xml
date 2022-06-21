@@ -22,7 +22,7 @@
     <spring.version>5.0.5.RELEASE</spring.version>
     <jpa.version>2.0.6.RELEASE</jpa.version>
     <hibernat.version>5.2.16.Final</hibernat.version>
-    <mysql.version>5.1.35</mysql.version>
+    <mysql.version>8.0.28</mysql.version>
     <dhcp.version>1.2.2</dhcp.version>
     <lombok.version>1.16.20</lombok.version>
   </properties>
